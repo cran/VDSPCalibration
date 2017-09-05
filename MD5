@@ -1,0 +1,10 @@
+201c7e91a4478518bed42e108e9419e3 *DESCRIPTION
+81d09d4a99e2926b0237d0d6182820b0 *NAMESPACE
+1ecd7a6fa79f00ecc475e8c185ab76a8 *R/VDSPcalibration.R
+3ed7df61b97454ca3dfa3dd0112e08a9 *build/partial.rdb
+8f7c4aa7e017e4b8301e05a97d42b163 *man/VDSPCalibration-package.Rd
+f3622dfbe7c2c0966be09a34b55fc64d *man/calfun.Rd
+b08a4d7c3ebc0abd0e478faa0f73510c *man/chngpt.Rd
+529a5ce30f5b51f292018c9c0b77d82a *man/samplefun.Rd
+ac82e605282e792df9b3c3309ad7e35d *man/samplesize.Rd
+35202f822abf974818a604e5f0e83bdb *man/sampletot.Rd
